@@ -1,0 +1,30 @@
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet OMS.csproj.AssemblyReference.cache
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet OMS.csproj.GenerateResource.cache
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet OMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet OMS.AssemblyInfoInputs.cache
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet OMS.AssemblyInfo.cs
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet OMS.csproj.CoreCompileInputs.cache
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\Projet OMS.exe
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\Projet OMS.deps.json
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\Projet OMS.runtimeconfig.json
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\Projet OMS.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\Projet OMS.pdb
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet_OMS.Accueil.resources
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet_OMS.Login.resources
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet OMS.csproj.CopyComplete
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet OMS.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\refint\Projet OMS.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet OMS.pdb
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet OMS.genruntimeconfig.cache
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\ref\Projet OMS.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet_OMS.Properties.Resources.resources
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet_OMS.Ordonnance.resources
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet_OMS.Produit.resources
+C:\Users\saida\Desktop\Projects-CSharp\Projet OMS\obj\Debug\net6.0-windows\Projet_OMS.Paiment.resources
